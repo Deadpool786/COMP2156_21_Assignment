@@ -1,0 +1,5 @@
+#101478687-Deep
+DevOps is a set of practices that focuses on collaboration, automation, and continuous improvement between development and operations teams. 
+It aims to streamline the software delivery process, enhance efficiency, and deliver high-quality software more rapidly. Key principles include automation, 
+continuous integration, continuous deployment, infrastructure as code, and a culture of collaboration. Popular tools include Jenkins, Docker, Kubernetes, Ansible, and monitoring tools like Prometheus and Grafana. 
+Adopting DevOps can lead to faster and more reliable software delivery, improved teamwork, and better responsiveness to customer needs.
