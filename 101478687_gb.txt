@@ -1,7 +1,5 @@
-#101478687_DEEP
-
-
-#George Brown College is a public college in Toronto that offers over 200 programs in arts, business, community services, health sciences, 
-#hospitality and more1. It was established in 1967 and has three campuses in downtown Toronto2. It has about 30,000 full-time and part-time
-# students, including 32% international students from more than 120 countries3. George Brown College is known for its blend of theory and
-# real-world experience, its industry partnerships, and its diverse and inclusive learning environment
+101478687-DEEP
+George Brown College is a public college in Toronto that offers over 200 programs in arts, business, community services, health sciences, 
+hospitality and more1. It was established in 1967 and has three campuses in downtown Toronto2. It has about 30,000 full-time and part-time
+students, including 32% international students from more than 120 countries3. George Brown College is known for its blend of theory and
+real-world experience, its industry partnerships, and its diverse and inclusive learning environment
